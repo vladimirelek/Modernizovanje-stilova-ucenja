@@ -1,0 +1,9 @@
+.student-main-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.answer-buttons {
+  display: flex;
+  flex-direction: column;
+}

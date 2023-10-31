@@ -1,0 +1,4 @@
+.class-main-container {
+  display: flex;
+  justify-content: space-evenly;
+}

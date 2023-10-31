@@ -1,0 +1,17 @@
+.questions-during-class {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+.single-notification{
+  text-align: center;
+  display:flex;
+  align-items: center;
+}
+.span-style{
+  display: flex;
+  justify-content: space-between;
+}
+.user-profile-container{
+  padding-right: 30px;
+}
